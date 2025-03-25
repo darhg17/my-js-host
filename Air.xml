@@ -73,7 +73,7 @@
     
  <measure number="1" width="293.84">
     <!-- This should hide the entire measure -->
-    <print new-system="no" new-page="no" print-object="no"/> 
+ 
 
     <attributes>
         <divisions>4</divisions>
