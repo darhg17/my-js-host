@@ -74,7 +74,7 @@
 
 
     
- <measure number="1" width="293.84">
+ <measure number="1" width="293.84" implicit="yes">
     <!-- Make the entire measure invisible visually -->
     <print print-object="no"/>  <!-- This hides the whole measure visually -->
 
