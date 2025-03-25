@@ -94,7 +94,7 @@
     </attributes>
 
     <!-- Four quarter rests in voice 1 -->
-    <note>
+    <note print-object="no">
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
