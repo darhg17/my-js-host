@@ -129,7 +129,7 @@
 
 
     
-    <measure number="1" width="293.84">
+    <measure number="2" width="293.84">
       <print>
         <system-layout>
           <system-margins>
@@ -351,6 +351,8 @@
         <staff>2</staff>
         </note>
       </measure>
+
+    
     <measure number="3" width="296.31">
       <note default-x="12.36" default-y="-20.00">
         <pitch>
