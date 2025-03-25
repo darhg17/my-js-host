@@ -72,6 +72,8 @@
 
     
  <measure number="1" width="293.84">
+    <!-- This should hide the entire measure -->
+    <print new-system="no" new-page="no" print-object="no"/> 
 
     <attributes>
         <divisions>4</divisions>
@@ -93,8 +95,8 @@
         </clef>
     </attributes>
 
-    <!-- Four quarter rests in voice 1 -->
-    <note print-object="no">
+    <!-- Four quarter rests -->
+    <note>
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
@@ -123,6 +125,7 @@
         <staff>1</staff>
     </note>
 </measure>
+
 
 
     
