@@ -72,7 +72,6 @@
 
     
  <measure number="1" width="293.84">
-    <print new-system="no" new-page="no"/> <!-- No need for print-object="no" -->
 
     <attributes>
         <divisions>4</divisions>
