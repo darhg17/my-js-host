@@ -72,7 +72,7 @@
 
     
  <measure number="1" width="293.84">
-    <print new-system="no" new-page="no" print-object="no"/> <!-- Hide the entire measure -->
+    <print new-system="no" new-page="no"/> <!-- No need for print-object="no" -->
 
     <attributes>
         <divisions>4</divisions>
@@ -94,96 +94,34 @@
         </clef>
     </attributes>
 
-    <note print-object="no"> <!-- Make this note invisible -->
-        <pitch>
-            <step>B</step>
-            <octave>4</octave>
-        </pitch>
-        <duration>16</duration>
+    <!-- Four quarter rests in voice 1 -->
+    <note>
+        <rest/>
+        <duration>4</duration>
         <voice>1</voice>
-        <type>whole</type>
+        <type>quarter</type>
         <staff>1</staff>
     </note>
-
-    <backup>
-        <duration>16</duration>
-    </backup>
-
-    <note print-object="no">
-        <pitch>
-            <step>D</step>
-            <octave>4</octave>
-        </pitch>
-        <duration>16</duration>
-        <voice>2</voice>
-        <type>whole</type>
+    <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
         <staff>1</staff>
     </note>
-
-    <note print-object="no">
-        <chord/>
-        <pitch>
-            <step>G</step>
-            <octave>4</octave>
-        </pitch>
-        <duration>16</duration>
-        <voice>2</voice>
-        <type>whole</type>
+    <note>
+        <rest/>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
         <staff>1</staff>
     </note>
-
-    <backup>
-        <duration>16</duration>
-    </backup>
-
-    <note print-object="no">
-        <pitch>
-            <step>G</step>
-            <octave>2</octave>
-        </pitch>
+    <note>
+        <rest/>
         <duration>4</duration>
-        <voice>5</voice>
+        <voice>1</voice>
         <type>quarter</type>
-        <stem>up</stem>
-        <staff>2</staff>
-    </note>
-
-    <note print-object="no">
-        <pitch>
-            <step>G</step>
-            <octave>3</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>5</voice>
-        <type>quarter</type>
-        <stem>down</stem>
-        <staff>2</staff>
-    </note>
-
-    <note print-object="no">
-        <pitch>
-            <step>F</step>
-            <alter>1</alter>
-            <octave>3</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>5</voice>
-        <type>quarter</type>
-        <stem>down</stem>
-        <staff>2</staff>
-    </note>
-
-    <note print-object="no">
-        <pitch>
-            <step>F</step>
-            <alter>1</alter>
-            <octave>2</octave>
-        </pitch>
-        <duration>4</duration>
-        <voice>5</voice>
-        <type>quarter</type>
-        <stem>up</stem>
-        <staff>2</staff>
+        <staff>1</staff>
     </note>
 </measure>
 
