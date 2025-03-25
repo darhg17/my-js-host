@@ -73,6 +73,7 @@
     
  <measure number="1" width="293.84">
     <!-- This should hide the entire measure -->
+   <print print-object="no"/>
  
 
     <attributes>
@@ -125,7 +126,6 @@
         <staff>1</staff>
     </note>
 </measure>
-
 
 
     
