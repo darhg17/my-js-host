@@ -74,10 +74,7 @@
 
 
     
- <measure number="1" width="293.84" implicit="yes">
-    <!-- Make the entire measure invisible visually -->
-    <print print-object="no"/>  <!-- This hides the whole measure visually -->
-
+<measure number="1" implicit="yes" width="293.84"> 
     <attributes>
         <divisions>4</divisions>
         <key>
@@ -98,29 +95,29 @@
         </clef>
     </attributes>
 
-    <!-- Four quarter rests, still playable but invisible -->
-    <note print-object="no">
+    <!-- Four quarter rests (Still playable, but not displayed) -->
+    <note>
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
         <staff>1</staff>
     </note>
-    <note print-object="no">
+    <note>
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
         <staff>1</staff>
     </note>
-    <note print-object="no">
+    <note>
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
         <staff>1</staff>
     </note>
-    <note print-object="no">
+    <note>
         <rest/>
         <duration>4</duration>
         <voice>1</voice>
