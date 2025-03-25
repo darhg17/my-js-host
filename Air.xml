@@ -94,28 +94,28 @@
       <line>4</line>
     </clef>
   </attributes>
-  <note>
+  <note print-object="no">
     <rest/>
     <duration>4</duration>
     <voice>1</voice>
     <type>quarter</type>
     <staff>1</staff>
   </note>
-  <note>
+  <note print-object="no">
     <rest/>
     <duration>4</duration>
     <voice>1</voice>
     <type>quarter</type>
     <staff>1</staff>
   </note>
-  <note>
+  <note print-object="no">
     <rest/>
     <duration>4</duration>
     <voice>1</voice>
     <type>quarter</type>
     <staff>1</staff>
   </note>
-  <note>
+  <note print-object="no">
     <rest/>
     <duration>4</duration>
     <voice>1</voice>
@@ -125,28 +125,28 @@
   <backup>
     <duration>16</duration>
   </backup>
-  <note>
+  <note print-object="no">
     <rest/>
     <duration>4</duration>
     <voice>2</voice>
     <type>quarter</type>
     <staff>2</staff>
   </note>
-  <note>
+  <note print-object="no">
     <rest/>
     <duration>4</duration>
     <voice>2</voice>
     <type>quarter</type>
     <staff>2</staff>
   </note>
-  <note>
+  <note print-object="no">
     <rest/>
     <duration>4</duration>
     <voice>2</voice>
     <type>quarter</type>
     <staff>2</staff>
   </note>
-  <note>
+  <note print-object="no">
     <rest/>
     <duration>4</duration>
     <voice>2</voice>
