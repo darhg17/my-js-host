@@ -13,6 +13,9 @@
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
       <supports element="print" attribute="new-system" type="yes" value="yes"/>
+      
+      <supports element="print" attribute="print-object" type="yes" value="yes"/>
+
       <supports element="stem" type="yes"/>
       </encoding>
     <source>http://musescore.com/user/18625336/scores/3722131</source>
