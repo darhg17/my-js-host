@@ -96,9 +96,30 @@
   </attributes>
   <note>
     <rest/>
-    <duration>16</duration>
+    <duration>4</duration>
     <voice>1</voice>
-    <type>whole</type>
+    <type>quarter</type>
+    <staff>1</staff>
+  </note>
+  <note>
+    <rest/>
+    <duration>4</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <staff>1</staff>
+  </note>
+  <note>
+    <rest/>
+    <duration>4</duration>
+    <voice>1</voice>
+    <type>quarter</type>
+    <staff>1</staff>
+  </note>
+  <note>
+    <rest/>
+    <duration>4</duration>
+    <voice>1</voice>
+    <type>quarter</type>
     <staff>1</staff>
   </note>
   <backup>
@@ -106,12 +127,34 @@
   </backup>
   <note>
     <rest/>
-    <duration>16</duration>
+    <duration>4</duration>
     <voice>2</voice>
-    <type>whole</type>
+    <type>quarter</type>
+    <staff>2</staff>
+  </note>
+  <note>
+    <rest/>
+    <duration>4</duration>
+    <voice>2</voice>
+    <type>quarter</type>
+    <staff>2</staff>
+  </note>
+  <note>
+    <rest/>
+    <duration>4</duration>
+    <voice>2</voice>
+    <type>quarter</type>
+    <staff>2</staff>
+  </note>
+  <note>
+    <rest/>
+    <duration>4</duration>
+    <voice>2</voice>
+    <type>quarter</type>
     <staff>2</staff>
   </note>
 </measure>
+
 
 
 
