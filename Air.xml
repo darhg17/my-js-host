@@ -67,6 +67,39 @@
       </score-part>
     </part-list>
   <part id="P1">
+
+
+
+    
+    <measure number="0">
+    <note>
+        <rest/>
+        <duration>1</duration> <!-- Adjust based on the division settings -->
+        <voice>1</voice>
+        <type>quarter</type>
+    </note>
+    <note>
+        <rest/>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+    </note>
+    <note>
+        <rest/>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+    </note>
+    <note>
+        <rest/>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+    </note>
+</measure>
+
+
+    
     <measure number="1" width="293.84">
       <print>
         <system-layout>
